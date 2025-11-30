@@ -1,21 +1,79 @@
-<h1 align="center">Hi 👋, I'm Kinsoro</h1>
 
-<p align="center">
-💻 Passionate about coding, open-source, and continuous learning<br>
-🚀 Always experimenting, building, and solving problems
-</p>
+# Hi, I'm Anas 👋
+
+A dedicated student and practitioner of **Cybersecurity**, specializing in **Network & Infrastructure Penetration Testing** and **Reverse Engineering**.
+
+I combine strategic thinking, disciplined learning, and hands‑on experimentation to build a strong technical foundation suitable for CTF competitions, real‑world security assessments, and future professional work.
+
+---
+
+## 🚀 About Me
+
+* 📌 Focused on becoming an **Infrastructure/Network Pentester** and **Reverse Engineer**.
+* 🎯 Highly motivated, disciplined, and goal‑driven.
+* 🔍 Currently mastering:
+
+  * Network exploitation
+  * Reverse engineering (static & dynamic analysis)
+  * Linux hardening & offensive tooling
+  * Protocol analysis & traffic manipulation
+* 🧠 Passionate about deep analysis, problem‑solving, and technical challenges.
 
 ---
 
-### 🖥️ Languages & Tools
+## 🛠️ Skills & Domains
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-</p>
+* **Network Penetration Testing** (Scanning, Enumeration, Exploitation)
+* **Reverse Engineering** (ELF/PE, Disassembly, Debugging)
+* **Linux & Windows Systems**
+* **Scripting** (Python, Bash)
+* **Packet crafting & analysis** (Wireshark, Scapy)
+* **Virtualization & lab building** (VMware, VirtualBox)
 
 ---
+
+## 📜 Certifications
+
+I hold multiple certifications from:
+
+* **Cisco**
+* **Oracle**
+* **IBM**
+https://www.credly.com/users/anas-sa2007
+Covering security fundamentals, networking, cloud concepts, and more.
+
+---
+
+## 🌐 Platforms & Activity
+
+I actively train on:
+
+* TryHackMe
+* HackTheBox
+* CTF challenges (Network, RE, Binary)
+
+(Links will be added as soon as the profiles are made public.)
+
+---
+
+## 🎯 Goals
+
+* Advance deeply in **network exploitation** and **reverse engineering**.
+* Contribute to CTF teams with high‑level problem‑solving.
+* Build tools, write-ups, and labs to help the community.
+* Prepare for a career as an **ethical hacker and security engineer**.
+
+---
+
+## 📩 Contact
+
+Feel free to reach out for collaboration, CTF teams, or projects.
+
+**Email:** *sadkiaz06@gmail.com*
+
+---
+
+
 
 ### 🏅 GitHub Achievements
 
@@ -25,18 +83,8 @@
   <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" title="Quickdraw - Closed issue within 5 minutes"/>
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kinsoro&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
----
 
 ### 🔗 Connect with me
 
 - GitHub: [Kinsoro](https://github.com/Kinsoro)
 
----
